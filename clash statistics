@@ -1,0 +1,33 @@
+<table width='100%" boarder=1px cellspacing=0>
+<caption>Clash of Clans Heros</captions>
+<tr>
+   <th>Unlocked at</th>
+   <th>Hero</th>
+   <th>Ability</th>
+   <th>Importance</th>
+</tr>
+<tr>
+   <td>town hall 7</td>
+   <td>Barbarian King</td>
+   <td>iron fist</td>
+   <td>4th</td>
+</tr>
+<tr>
+   <td>town hall 9</td>
+   <td>Archer Queen</td>
+   <td>royal cloak</td>
+   <td>1st</td>
+</tr>
+<tr>
+   <td>town hall 11</td>
+   <td>Grand Warden</td>
+   <td>life aura</td>
+   <td>2nd</td>
+</tr>
+<tr>
+   <td>town hall 13</td>
+   <td>Royal Champion</td>
+   <td>seeking shield</td>
+   <td>3rd</td>
+</tr>
+</table>
