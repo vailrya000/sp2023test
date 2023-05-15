@@ -1,0 +1,27 @@
+<html>
+<body bgcolor="teal">
+   <table width="100%" boarder=1px cellspacing=0>
+   <caption>html tags
+<tr> 
+   <th>
+     <ul>
+      <li>link</li>
+      <li>image</li>
+      <li>audio</li>
+      <li>list</li>
+      <li>video</li>
+     </ul>
+   </th>
+   <th>
+     <ol>
+      <li>have a link in your website to take you to a different website.</li>
+      <li>have a picture on a website you can also attach a link to it.</li>
+      <li>have an audio file playable from the website.</li>
+      <li>make ordered or unordered lists on the website.</li>
+      <li>be able to see and listen to videos on the website</li>
+     </ol>
+   </th>
+</tr>
+</table>
+</body>
+</html>
